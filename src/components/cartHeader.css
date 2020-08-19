@@ -1,0 +1,17 @@
+.cartHeader {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.cartHeader__text2 {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.cartHeader__text1 {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}

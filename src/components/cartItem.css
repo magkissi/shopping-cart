@@ -1,0 +1,31 @@
+.cartItem__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.cartItem__img {
+  display: flex;
+  align-items: center;
+}
+.cartItem__button {
+  display: flex;
+  width: 100px;
+  justify-content: space-between;
+}
+
+.cartItem__container img {
+  width: 200px;
+}
+
+.cartItem__container button {
+  height: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.remove__icon {
+  color: tomato;
+  font-weight: 600;
+}
